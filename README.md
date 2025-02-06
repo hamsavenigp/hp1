@@ -1,2 +1,2 @@
 # hp1
-Created the simple job application form using HTML,CSS,JAVASCRIPT .
+Created the simple job application form using HTML,CSS.
